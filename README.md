@@ -8,4 +8,4 @@
 - 🔒 Interested in: Network Security, SIEM/SOC, Linux Hardening, Crypto Security
 - ⚡ Side projects: Bitcoin mining (since 2010) & energy self-sufficiency
 - 📍 Virginia, USA
-- 📫 [email or LinkedIn link]
+- 📫 https://www.linkedin.com/in/micah-mysiuk
