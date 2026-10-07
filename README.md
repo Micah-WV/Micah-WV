@@ -2,7 +2,7 @@
 
 **Career Switcher** → **Cybersecurity / SysAdmin (in progress)**
 
-- 🎓 Cloud Infrastructure & Security (CIS) student at UMGC
+- 🎓 Cloud Information Systems (CIS) student at UMGC
 - 🔐 Currently studying for Cloud+, Network+ & Security+
 - 🛠️ Building "LegacyNet" - a home lab for hands-on networking & security practice
 - 🔒 Interested in: Network Security, SIEM/SOC, Linux Hardening, Crypto Security
